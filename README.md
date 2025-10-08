@@ -175,7 +175,7 @@ In this project, a low-cost and lightweight image recognition solution is introd
 
 ## References
 
-1. SafeHome.org. (2025, February 11). 2025 Home Security Market Report. Retrieved from https://www.safehome.org/resources/home-security-industry-annual/, last visited: 09/28/2925
+1. SafeHome.org. (2025, February 11). 2025 Home Security Market Report. Retrieved from https://www.safehome.org/resources/home-security-industry-annual/, last visited: 09/28/2025
 
 2. Howard, A. G., et al. (2017). "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications." arXiv preprint arXiv:1704.04861. [Primary CNN Architecture Reference]
 
