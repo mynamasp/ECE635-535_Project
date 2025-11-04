@@ -79,4 +79,4 @@
 - Notification system algorithm and implementation  
 
 **Next Steps:**
-- Write report sections on
+- Write report sections on (Introduction, problem statement, literature review, conclusion)
